@@ -1,1 +1,7 @@
-{"name":"zais.github.io","tagline":"Github.io personal page","body":"### Gteetings:\r\nI'm humble IT guy, interested in Mac/Linux and Gaming :).<br>\r\nI don't like Windows only software/games.\r\n\r\n### Projects:\r\n* [SteamLA](steam_library_analyzer): Simple Steam Library Analyzer written on shell (no-gui obviously)","google":"UA-47257953-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "zais.github.io",
+  "tagline": "Github.io personal page",
+  "body": "### Gteetings:\r\nI'm humble IT guy, interested in Mac/Linux and Gaming :).<br>\r\nI don't like Windows only software/games.\r\n\r\n### Projects:\r\n* [SteamLA](steam_library_analyzer): Simple Steam Library Analyzer written on shell (no-gui obviously)\r\n* [PMPcli](pmpcli): Quite hacky and ugly tool to work with PMP from terminal",
+  "google": "UA-47257953-1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
